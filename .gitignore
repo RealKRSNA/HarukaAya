@@ -1,4 +1,4 @@
-config.yml
+haruka/config.py
 *.pyc
 .idea/
 logfile
@@ -7,9 +7,15 @@ backups/
 .pydevproject
 .directory
 .vscode
-images/*ed*.jpg
-images/kangsticker.png
-images/sticker.png
+sticker.png
+mocked*.jpg
+kimed*.jpg
+hitlered*.jpg
+4pdaed*.jpg
+mafiaed*.jpg
+kangsticker
+kangsticker.png
+okgoogle.png
 log.err
 log.log
 *.backup
