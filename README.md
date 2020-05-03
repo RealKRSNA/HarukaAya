@@ -1,4 +1,4 @@
-# HARUKA AYA BOY CLONE
+# HARUKA AYA BOT CLONE
 
 ## Deploy
 
